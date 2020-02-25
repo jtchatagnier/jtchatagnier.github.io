@@ -1,0 +1,179 @@
+p {
+	font: 1em/1.5 "Times New Roman", times, serif;
+	color: white;
+}
+
+/* Comment */
+
+a:link {
+	color: blue;
+	text-decoration: none;
+}
+
+a:visited {
+	color: purple;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+	font-weight: bold;
+}
+
+a:active {
+	color: purple;
+	text-decoration: none;
+}
+
+body {
+	font-family: arial, helvetica;
+	font-size: 80%;
+	color: white;
+	background-image: linear-gradient(bottom, #1C2023 70%, rgb(0,0,0) 30%);
+	background-image: -o-linear-gradient(bottom, #1C2023 70%, rgb(0,0,0) 30%);
+	background-image: -moz-linear-gradient(bottom, #1C2023 70%, rgb(0,0,0) 30%);
+	background-image: -webkit-linear-gradient(bottom, #1C2023 70%, rgb(0,0,0) 30%);
+	background-image: -ms-linear-gradient(bottom, #1C2023 70%, rgb(0,0,0) 30%);
+	background-image: -webkit-gradient(
+		linear,
+		left bottom,
+		left top,
+		color-stop(0.8, #1C2023),
+		color-stop(0.2, rgb(0,0,0))
+	);
+}
+
+h1 {
+	margin: 0;
+	padding: 1em;
+	font-size: 3em;
+	font-style: italic;
+	font-weight: normal;
+}
+
+h2 {
+	margin: 0 0 0 2em;
+	padding: 1em;	
+	color: white;
+	font-size: 1.75em;
+}
+
+h3 {
+	color: #999;
+	font-size: 1.25em;
+}
+
+
+strong {
+	font-style: italic;
+	text-transform: uppercase;
+}
+
+li {
+	color: black;
+}
+
+table {
+	background-color: #ccc;
+}
+
+dt {
+	font-weight: bold;
+}
+
+#top {
+	padding: 1em
+}
+
+.intro {
+	color: red;
+	font-weight: bold;
+}
+
+#top h1 {
+	color: #ff0;
+}
+
+#top p {
+	color: red;
+	font-weight: bold;
+}
+
+.alternate {
+	color: white;
+	background-color: black;
+}
+
+#navigation {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 10em;
+}
+	
+#header {
+	padding: 0;
+	margin: 0;
+	width: 100%;
+}
+
+#header ul {
+	list-style: none;
+	padding: 0;
+	margin: 1em 0 0 5em;
+}
+
+#header li {
+	height: 2em;
+	float: left;
+	border-bottom-width: 0;
+	margin: 0 10px 0 0;
+	padding-left: 10px;
+	background: #000 url(images/tab.png);
+}
+
+#header li a:link {
+	padding: 0 1em;
+	color: #0CC;
+	text-decoration: none;
+}
+
+#header li a:visited {
+	color: #0CC;
+	text-decoration: none;
+}
+
+#header li a:hover {
+	color: white;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+#header li a:active {
+	color: white;
+	text-decoration: none;
+}
+
+#header #selected {
+	padding-bottom: 1px;
+	background: #000 url(images/tab.png);
+	color: white;
+}
+
+#header #selected a{
+	position: relative;
+	top: 1px;
+	background: linear-gradient(top, #000, #333);
+	color: white;
+}
+
+#content {
+	width: 100%
+	clear: both;
+	margin: 2em;
+}
+
+#bordered{ 
+	border: #FFF solid 1px; 
+	padding: 3px;
+}

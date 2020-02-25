@@ -1,0 +1,73 @@
+#header {
+	padding: 0;
+	margin: 0;
+	width: 100%;
+}
+
+#header ul {
+	list-style: none;
+	padding: 0;
+	margin: 2em 0 0 5em;
+}
+
+#header ul li {
+	height: 2em;
+	float: left;
+	border-bottom-width: 0;
+	margin: 0 1px 0 0;
+	padding-left: 10px;
+	background: #000 url(images/tabtop.png);
+}
+
+#header ul li a {
+	background: url(images/tabtop.png) 100% 0;
+	text-decoration: none;
+	color: #0CC;
+    display: block;
+    float: left;
+    height: 2em;
+    line-height: 2em;
+    padding-right: 10px;
+}
+
+#header ul li a:link {
+	padding: 0 1.5em;
+	color: #0CC;
+	text-decoration: none;
+}
+
+#header ul li a:visited {
+	color: #0CC;
+	text-decoration: none;
+}
+
+#header ul li a:hover {
+	color: white;
+	text-decoration: none;
+	font-weight: normal;
+	background: #000 url(images/tabbottom.png);
+	background-position: 100% 0;
+}
+
+#header ul li a:hover span{
+	background: #000 url(images/tabbottom.png);
+	background-position: 0 0;
+}
+
+#header ul li a:active {
+	color: white;
+	text-decoration: none;
+	top: 1px;
+	background: #000 url(images/tabbottom.png);
+}
+
+#header #selected {
+	color: white;
+	text-decoration: none;
+	background: #000 url(images/tabbottom.png);
+}
+
+#header #selected a{
+	color: white;
+	background: #000 url(images/tabbottom.png) 100% 0;
+}

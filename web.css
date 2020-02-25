@@ -1,0 +1,123 @@
+p {
+	font: 1em/1.5 "Times New Roman", times, serif;
+	padding: 3em 1em;
+	border: 1px black solid;
+	border-width: 1px 5px 5px 1px;
+	border-color: red green blue yellow;
+	margin: 1em 5em;
+}
+
+/* Comment */
+
+a:link {
+	color: blue;
+	text-decoration: none;
+}
+
+a:visited {
+	color: purple;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+	font-weight: bold;
+}
+
+a:active {
+	color: purple;
+	text-decoration: none;
+}
+
+body {
+	font-family: arial, helvetica;
+	font-size: 80%;
+	color: black;
+	background-color: #ffc;
+	margin: 1em;
+	padding: 0;
+}
+
+h1 {
+	font-size: 2em;
+	color: #ffc;
+	background-color: #900;
+	margin: 0;
+	margin-bottom: 0.5em;
+	border-bottom-style: solid;
+	border-bottom-width: 0.5em;
+	border-bottom-color: #c00;
+}
+
+h2 {
+	color: white;
+	font-size: 1.5em;
+	background-color: #090;
+	margin: 0;
+	padding: 0.1em;
+	padding-left: 1em;
+}
+
+h3 {
+	color: #999;
+	font-size: 1.25em;
+}
+
+img {
+	border-style: dashed;
+	border-width: 2px;
+	border-color: #ccc;
+}
+
+strong {
+	font-style: italic;
+	text-transform: uppercase;
+}
+
+li {
+	color: #900;
+	font-style: italic;
+}
+
+table {
+	background-color: #ccc;
+}
+
+dt {
+	font-weight: bold;
+}
+
+#top {
+	background-color: #ccc;
+	padding: 1em
+}
+
+.intro {
+	color: red;
+	font-weight: bold;
+}
+
+#top h1 {
+	color: #ff0;
+}
+
+#top p {
+	color: red;
+	font-weight: bold;
+}
+
+.alternate {
+	color: white;
+	background-color: black;
+}
+
+#navigation {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 10em;
+}
+
+#content {
+	margin-left: 10em;
+}

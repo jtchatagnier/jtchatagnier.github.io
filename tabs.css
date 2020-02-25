@@ -1,0 +1,229 @@
+p {
+	font: 1em "Trebuchet MS", Tahoma, "Helvetica", "Times New Roman", times, serif;
+	color: #CCC;
+}
+
+a:link {
+	color: #0AA;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #808;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+	text-decoration: underline;
+}
+
+a:active {
+	color: purple;
+	text-decoration: underline;
+}
+
+body {
+	font-family: arial, helvetica;
+	font-size: 100%;
+	color: white;
+	height: 100%;
+	background-color: #111;
+	width: 72%;
+	padding-left: 14%;
+}
+
+h1 {
+	margin: 0;
+	padding: 1em 1em 1em 2em;
+	font-size: 3em;
+}
+
+h2 {
+	margin: 1.5em 0 0 2.5em;
+	padding: 2em 0 0 0;	
+	color: white;
+	font-size: 1.5em;
+}
+
+h3 {
+	margin: 0 0 0 2em;
+	padding: 2em 0 0 0;	
+	color: white;
+	font-size: 1.25em;
+}
+
+h4 {
+	margin: 0;
+	padding-top: 1.5em;
+	color: white;
+	font-size: 1.2em;
+}
+
+strong {
+	font-style: bold;
+}
+
+emph {
+	font-style: italic;
+}
+
+normal {
+	font-weight: normal;
+}
+
+li {
+	color: #CCC;
+}
+
+#header {
+    margin: 0;
+    padding: 0;
+	width: 100%;
+}
+
+#header ul {
+	list-style: none;
+	padding: 0;
+	margin: 5px 0 0 5em;
+}
+
+#header li {
+    float: left;
+    margin: 0 1px 0 0;
+	padding-left: 1em;
+}
+
+#header a {
+	background: #000 url(Uploads/tabs3.gif);
+	color: #0AA;
+    display: block;
+    float: left;
+    height: 2em;
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+#header a:hover {
+	color: white;
+	text-decoration: none;
+	font-weight: normal;
+	background-position: 0 -120px;
+}
+
+#header a:hover span {
+    background-position: 100% -120px;
+}
+
+#header ul li a:active {
+	color: white;
+	text-decoration: none;
+	background-color: #000;
+	background-position: 0 -60px;
+}
+
+#header ul li a:active span {
+	background-position: 100% -60px;
+}
+
+#header #selected a {
+    background-color: #000;
+    background-position: 0 -60px;
+    color: white;
+}
+
+#header #selected span {
+    background-position: 100% -60px;
+}
+
+#header span {
+    background: url(Uploads/tabs3.gif) 100% 0;
+    display: block;
+    line-height: 2em;
+    padding-right: 10px;
+}
+
+#content {
+	margin-left: 2.5em;
+	width: 100%
+	clear: both;
+}
+
+#bordered{ 
+	border: #FFF solid 1px; 
+	padding: 3px;
+}
+
+.hR {
+	min-height: 1px;
+	clear: both;
+	width: 90%;
+	border-bottom: 1.75px solid #AAA;
+	height: 1px;
+	padding-top: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 3.5em;
+}
+
+#main {
+	margin-left: 3.5em;
+	margin-right: 3.5em;
+	padding-bottom: 3.5em;
+}
+
+.imageleft {
+	padding-right:5em;
+	float:left;
+} 
+
+.imageright {
+	padding-left:5em;
+	float:right;
+} 
+
+
+.section{
+	font-size: 110%;
+	font-weight: bold;
+	margin-top: 2em;
+}
+
+.entry {
+	margin-bottom: 1.5em;
+}
+
+.newent {
+	margin-top: 2em;
+	margin-bottom: -1em;
+	font-weight: bold;
+}
+
+.topent {
+	margin-top: 2em;
+	margin-bottom: -1em;
+}
+
+.multent {
+	margin-bottom: -1em;
+}
+
+.largecent {
+	text-align: center;
+	color: white;
+	font-size: 1.75em;
+	padding-top: 1.25em;
+	padding-bottom: 1.25em;
+}
+
+#spacer {
+	height: 30%;
+}
+
+::selection {
+	background: #36F
+}
+
+::-moz-selection {
+	background: #36F
+}
