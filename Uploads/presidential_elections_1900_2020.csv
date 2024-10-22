@@ -1,0 +1,79 @@
+year,candidate,party,electoral,popular,popular_percentage,winner,popular_majority
+1900,William McKinley,Republican,292,"7,207,923",51.7,1,1
+,William Jennings Bryan,Democratic,155,"6,358,133",45.5,0,0
+1904,Theodore Roosevelt,Republican,336,"7,623,486",56.4,1,1
+,Alton B. Parker,Democratic,140,"5,077,911",37.6,0,0
+,Eugene V. Debs,Socialist,0,"402,489",3,0,0
+1908,William Howard Taft,Republican,321,"7,678,908",51.6,1,1
+,William Jennings Bryan,Democratic,162,"6,409,104",43,0,0
+,Eugene V. Debs,Socialist,0,"420,380",2.8,0,0
+1912,Woodrow Wilson,Democratic,435,"6,293,454",41.8,1,0
+,Theodore Roosevelt,Progressive (Bull Moose),88,"4,119,207",27.4,0,0
+,William Howard Taft,Republican,8,"3,483,922",23.2,0,0
+,Eugene V. Debs,Socialist,0,"900,369",6,0,0
+1916,Woodrow Wilson,Democratic,277,"9,129,606",49.2,1,0
+,Charles Evans Hughes,Republican,254,"8,538,221",46.1,0,0
+,Allan L. Benson,Socialist,0,"589,924",3.2,0,0
+1920,Warren G. Harding,Republican,404,"16,147,249",60.3,1,1
+,James M. Cox,Democratic,127,"9,140,864",34.1,0,0
+,Eugene V. Debs,Socialist,0,"897,704",3.4,0,0
+1924,Calvin Coolidge,Republican,382,"15,725,016",54.1,1,1
+,John W. Davis,Democratic,136,"8,386,503",28.8,0,0
+,Robert M. La Follette,Progressive,13,"4,822,856",16.6,0,0
+1928,Herbert Hoover,Republican,444,"21,392,190",58,1,1
+,Alfred E. Smith,Democratic,87,"15,016,443",40.7,0,0
+1932,Franklin D. Roosevelt,Democratic,472,"22,821,857",57.3,1,1
+,Herbert Hoover,Republican,59,"15,761,841",39.6,0,0
+,Norman Thomas,Socialist,0,"884,781",2.2,0,0
+1936,Franklin D. Roosevelt,Democratic,523,"27,476,673",60.2,1,1
+,Alfred M. Landon,Republican,8,"16,679,583",36.5,0,0
+1940,Franklin D. Roosevelt,Democratic,449,"27,243,466",54.7,1,1
+,Wendell L. Willkie,Republican,82,"22,304,755",44.8,0,0
+1944,Franklin D. Roosevelt,Democratic,432,"25,602,505",53.3,1,1
+,Thomas E. Dewey,Republican,99,"22,006,278",45.8,0,0
+1948,Harry S. Truman,Democratic,303,"24,105,695",49.4,1,0
+,Thomas E. Dewey,Republican,189,"21,969,170",45,0,0
+,Strom Thurmond,States' Rights Democratic (Dixiecrat),39,"1,169,021",2.4,0,0
+,Henry A. Wallace,Progressive,0,"1,156,103",2.4,0,0
+1952,Dwight D. Eisenhower,Republican,442,"33,778,963",54.9,1,1
+,Adlai E. Stevenson,Democratic,89,"27,314,992",44.4,0,0
+1956,Dwight D. Eisenhower,Republican,457,"35,581,003",57.4,1,1
+,Adlai E. Stevenson,Democratic,73,"25,738,765",42,0,0
+1960,John F. Kennedy,Democratic,303,"34,227,096",49.7,1,0
+,Richard M. Nixon,Republican,219,"34,107,646",49.5,0,0
+,Harry F. Byrd,,15,0,0,0,0
+1964,Lyndon B. Johnson,Democratic,486,"42,825,463",61.1,1,1
+,Barry M. Goldwater,Republican,52,"27,146,969",38.5,0,0
+1968,Richard M. Nixon,Republican,301,"31,710,470",43.4,1,0
+,Hubert H. Humphrey,Democratic,191,"30,898,055",42.7,0,0
+,George C. Wallace,American Independent,46,"9,906,473",13.5,0,0
+1972,Richard M. Nixon,Republican,520,"46,740,323",60.7,1,1
+,George S. McGovern,Democratic,17,"28,901,598",37.5,0,0
+1976,Jimmy Carter,Democratic,297,"40,825,839",50,1,0
+,Gerald R. Ford,Republican,240,"39,147,770",48,0,0
+1980,Ronald W. Reagan,Republican,489,"43,642,639",50.4,1,1
+,Jimmy Carter,Democratic,49,"35,480,948",41,0,0
+,John B. Anderson,Independent,0,"5,719,437",6.6,0,0
+1984,Ronald W. Reagan,Republican,525,"54,455,075",58.8,1,1
+,Walter F. Mondale,Democratic,13,"37,577,185",40.6,0,0
+1988,George H.W. Bush,Republican,426,"48,886,097",53.4,1,1
+,Michael S. Dukakis,Democratic,111,"41,809,074",45.7,0,0
+1992,Bill Clinton,Democratic,370,"44,909,889",43,1,0
+,George Bush,Republican,168,"39,104,545",37.4,0,0
+,Ross Perot,Independent,0,"19,742,267",18.9,0,0
+1996,Bill Clinton,Democratic,379,"47,402,357",49.2,1,0
+,Bob Dole,Republican,159,"39,198,755",40.7,0,0
+,Ross Perot,Reform,0,"8,085,402",8.4,0,0
+2000,George W. Bush,Republican,271,"50,455,156",47.9,1,0
+,Al Gore,Democratic,266,"50,992,335",48.4,0,0
+,Ralph Nader,Green,0,"2,882,897",2.7,0,0
+2004,George W. Bush,Republican,286,"62,040,610",50.7,1,1
+,John Kerry,Democratic,251,"59,028,444",48.3,0,0
+2008,Barack Obama,Democratic,365,"69,498,516",52.9,1,1
+,John McCain,Republican,173,"59,948,323",45.7,0,0
+2012,Barack Obama,Democratic,332,"65,915,795",51.1,1,1
+,Mitt Romney,Republican,206,"60,933,504",47.2,0,0
+2016,Donald Trump,Republican,304,"62,984,828",46.1,1,0
+,Hillary Clinton,Democratic,227,"65,853,514",48.2,0,0
+2020,Joe Biden,Democratic,306,"81,283,501",51.3,1,1
+,Donald Trump,Republican,232,"74,223,975",46.8,0,0
